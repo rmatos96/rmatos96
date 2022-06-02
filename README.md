@@ -2,7 +2,7 @@ Olá, me chamo Rodrigo 👋
 
 Estudo no momento Angular | HTML, CSS | JavaScript  para aperfeiçoar o que já aprendi no meu recente BOOTCAMP
 
-  <div align="center">
+  <div >
   <a href="https://github.com/rmatos96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmatos96&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmatos96&layout=compact&langs_count=7&theme=highcontrast"/>
