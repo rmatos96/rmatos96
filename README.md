@@ -4,8 +4,8 @@ Estudo no momento Angular | HTML, CSS | JavaScript  para aperfeiçoar o que já 
 
   <div >
   <a href="https://github.com/rmatos96">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rmatos96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmatos96&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rmatos96&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmatos96&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>
   
   <div style="display: inline_block;"><br>
