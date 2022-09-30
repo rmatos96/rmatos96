@@ -1,6 +1,6 @@
 Olá, me chamo Rodrigo 👋
 
-Estudo no momento Angular | HTML, CSS | JavaScript  para aperfeiçoar o que já aprendi no meu recente BOOTCAMP
+Desenvolvedor Web Front-end | ReactJs 
 
   <div >
   <a href="https://github.com/rmatos96">
